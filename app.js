@@ -1,4 +1,4 @@
-// PASTE CONFIG HAPA
+console.log("APP JS RUNNING");
 const firebaseConfig = {
   apiKey: "AIzaSyALFtA1QzBWq_eyKYzun1ddWRJEtHj0iOY",
   authDomain: "pispace-5585c.firebaseapp.com",
